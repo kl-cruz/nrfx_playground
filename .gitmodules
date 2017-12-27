@@ -1,0 +1,6 @@
+[submodule "repos/nrfx"]
+	path = repos/nrfx
+	url = https://github.com/NordicSemiconductor/nrfx.git
+[submodule "repos/CMSIS"]
+	path = repos/CMSIS
+	url = https://github.com/ARM-software/CMSIS.git
